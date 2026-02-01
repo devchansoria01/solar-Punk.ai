@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+torch
+transformers
+diffusers
+accelerate
+scipy
+pillow
+numpy
+python-dotenv
+safetensors

@@ -1,0 +1,577 @@
+[
+    {
+      "location": "Agrasen Ki Baoli",
+      "imagePath": "/assets/initial/Agrasen Ki Baoli .png",
+      "finalImagePath": "/assets/photos/Agrasen Ki Baoli .png",
+      "initialTreeCount": 3,
+      "finalTreeCount": 4,
+      "solarPanelCount": 4,
+      "vehicles": [
+        { "type": "Electric", "count": 0 },
+        { "type": "Hybrid", "count": 0 },
+        { "type": "Conventional", "count": 0 }
+      ],
+      "percentageEnergyEfficiency": 28.4
+    },
+    {
+      "location": "Amrit Udyan",
+      "imagePath": "/assets/initial/Amrit Udyan.png",
+      "finalImagePath": "/assets/photos/Amrit Udyan.png",
+      "initialTreeCount": 31,
+      "finalTreeCount": 36,
+      "solarPanelCount": 24,
+      "vehicles": [
+        { "type": "Electric", "count": 0 },
+        { "type": "Hybrid", "count": 0},
+        { "type": "Conventional", "count": 0 }
+      ],
+      "percentageEnergyEfficiency": 52.1
+    },
+    {
+      "location": "Bharat Darshan Park",
+      "imagePath": "/assets/initial/Bharat Darshan Park.png",
+      "finalImagePath": "/assets/photos/Bharat Darshan Park.png",
+      "initialTreeCount": 10,
+      "finalTreeCount": 13,
+      "solarPanelCount": 4,
+      "vehicles": [
+        { "type": "Electric", "count": 0 },
+        { "type": "Hybrid", "count": 0 },
+        { "type": "Conventional", "count": 0}
+      ],
+      "percentageEnergyEfficiency": 41.7
+    },
+    {
+      "location": "Champa Gali",
+      "imagePath": "/assets/initial/Champa Gali.png",
+      "finalImagePath": "/assets/photos/Champa Gali.png",
+      "initialTreeCount": 20,
+      "finalTreeCount": 24,
+      "solarPanelCount": 3,
+      "vehicles": [
+        { "type": "Electric", "count": 0 },
+        { "type": "Hybrid", "count": 0 },
+        { "type": "Conventional", "count": 0 }
+      ],
+      "percentageEnergyEfficiency": 22.9
+    },
+    {
+      "location": "Chandni Chowk",
+      "imagePath": "/assets/initial/Chandni Chowk.png",
+      "finalImagePath": "/assets/photos/Chandni Chowk.png",
+      "initialTreeCount": 7,
+      "finalTreeCount": 12,
+      "solarPanelCount": 6,
+      "vehicles": [
+        { "type": "Electric", "count": 0 },
+        { "type": "Hybrid", "count": 0 },
+        { "type": "Conventional", "count": 0 }
+      ],
+      "percentageEnergyEfficiency": 38.5
+    },
+    {
+      "location": "Chhatarpur Temple",
+      "imagePath": "/assets/initial/Chhatarpur Temple.png",
+      "finalImagePath": "/assets/photos/Chhatarpur Temple.png",
+      "initialTreeCount": 0,
+      "finalTreeCount": 10,
+      "solarPanelCount": 12,
+      "vehicles": [
+        { "type": "Electric", "count": 0 },
+        { "type": "Hybrid", "count": 0 },
+        { "type": "Conventional", "count": 0 }
+      ],
+      "percentageEnergyEfficiency": 45.2
+    },
+    {
+      "location": "Connaught Place",
+      "imagePath": "/assets/initial/Connaught Place.png",
+      "finalImagePath": "/assets/photos/Connaught Place .png",
+      "initialTreeCount": 12,
+      "finalTreeCount": 18,
+      "solarPanelCount": 5,
+      "vehicles": [
+        { "type": "Electric", "count": 0 },
+        { "type": "Hybrid", "count": 0 },
+        { "type": "Conventional", "count": 10 }
+      ],
+      "percentageEnergyEfficiency": 48.3
+    },
+    {
+      "location": "Coronation Park",
+      "imagePath": "/assets/initial/Coronation Park.png",
+      "finalImagePath": "/assets/photos/Coronation Park.png",
+      "initialTreeCount": 67,
+      "finalTreeCount": 178,
+      "solarPanelCount": 56,
+      "vehicles": [
+        { "type": "Electric", "count": 7 },
+        { "type": "Hybrid", "count": 9 },
+        { "type": "Conventional", "count": 28 }
+      ],
+      "percentageEnergyEfficiency": 36.8
+    },
+    {
+      "location": "Dilli Haat",
+      "imagePath": "/assets/initial/Dilli Haat.png",
+      "finalImagePath": "/assets/photos/Dilli Haat.png",
+      "initialTreeCount": 4,
+      "finalTreeCount": 10,
+      "solarPanelCount": 8,
+      "vehicles": [
+        { "type": "Electric", "count": 0 },
+        { "type": "Hybrid", "count": 0 },
+        { "type": "Conventional", "count": 0 }
+      ],
+      "percentageEnergyEfficiency": 39.1
+    },
+    {
+      "location": "Fatehpuri Masjid",
+      "imagePath": "/assets/initial/Fatehpuri Masjid.png",
+      "finalImagePath": "/assets/photos/Fatehpuri Masjid.png",
+      "initialTreeCount": 18,
+      "finalTreeCount": 52,
+      "solarPanelCount": 18,
+      "vehicles": [
+        { "type": "Electric", "count": 0},
+        { "type": "Hybrid", "count": 0 },
+        { "type": "Conventional", "count": 0 }
+      ],
+      "percentageEnergyEfficiency": 31.6
+    },
+    {
+      "location": "Feroz Shah Kotla Fort",
+      "imagePath": "/assets/initial/Feroz Shah Kotla Fort.png",
+      "finalImagePath": "/assets/photos/Feroz Shah Kotla Fort.png",
+      "initialTreeCount": 29,
+      "finalTreeCount": 82,
+      "solarPanelCount": 44,
+      "vehicles": [
+        { "type": "Electric", "count": 5 },
+        { "type": "Hybrid", "count": 6 },
+        { "type": "Conventional", "count": 24 }
+      ],
+      "percentageEnergyEfficiency": 27.3
+    },
+    {
+      "location": "Garden of Five Senses",
+      "imagePath": "/assets/initial/Garden of Five Senses.png",
+      "finalImagePath": "/assets/photos/Garden of Five Senses.png",
+      "initialTreeCount": 40,
+      "finalTreeCount": 49,
+      "solarPanelCount": 2,
+      "vehicles": [
+        { "type": "Electric", "count": 0},
+        { "type": "Hybrid", "count": 0},
+        { "type": "Conventional", "count": 0 }
+      ],
+      "percentageEnergyEfficiency": 55.4
+    },
+    {
+      "location": "Gurudwara Bangla Sahib",
+      "imagePath": "/assets/initial/Gurudwara Bangla Sahib.png",
+      "finalImagePath": "/assets/photos/Gurudwara Bangla Sahib.png",
+      "initialTreeCount": 5,
+      "finalTreeCount": 9,
+      "solarPanelCount": 16,
+      "vehicles": [
+        { "type": "Electric", "count": 0 },
+        { "type": "Hybrid", "count": 0 },
+        { "type": "Conventional", "count": 0}
+      ],
+      "percentageEnergyEfficiency": 43.9
+    },
+    {
+      "location": "Hauz Khas Fort",
+      "imagePath": "/assets/initial/Hauz Khas Fort .png",
+      "finalImagePath": "/assets/photos/Hauz Khas Fort .png",
+      "initialTreeCount": 2,
+      "finalTreeCount": 20,
+      "solarPanelCount": 15,
+      "vehicles": [
+        { "type": "Electric", "count": 0 },
+        { "type": "Hybrid", "count": 0 },
+        { "type": "Conventional", "count": 0}
+      ],
+      "percentageEnergyEfficiency": 37.2
+    },
+    {
+      "location": "Hazrat Nizamuddin Dargah",
+      "imagePath": "/assets/initial/Hazrat Nizamuddin Dargah.png",
+      "finalImagePath": "/assets/photos/Hazrat Nizamuddin Dargah.png",
+      "initialTreeCount": 41,
+      "finalTreeCount": 118,
+      "solarPanelCount": 88,
+      "vehicles": [
+        { "type": "Electric", "count": 12 },
+        { "type": "Hybrid", "count": 8 },
+        { "type": "Conventional", "count": 52 }
+      ],
+      "percentageEnergyEfficiency": 34.7
+    },
+    {
+      "location": "Humayun's Tomb",
+      "imagePath": "/assets/initial/HumayunΓÇÖs Tomb.png",
+      "finalImagePath": "/assets/photos/HumayunΓÇÖs Tomb.png",
+      "initialTreeCount": 19,
+      "finalTreeCount": 34,
+      "solarPanelCount": 72,
+      "vehicles": [
+        { "type": "Electric", "count": 18 },
+        { "type": "Hybrid", "count": 13 },
+        { "type": "Conventional", "count": 45 }
+      ],
+      "percentageEnergyEfficiency": 46.5
+    },
+    {
+      "location": "India Gate",
+      "imagePath": "/assets/initial/indiagate.png",
+      "finalImagePath": "/assets/photos/indiagate.png",
+      "initialTreeCount": 4,
+      "finalTreeCount": 17,
+      "solarPanelCount": 18,
+      "vehicles": [
+        { "type": "Electric", "count": 0 },
+        { "type": "Hybrid", "count": 0},
+        { "type": "Conventional", "count": 0 }
+      ],
+      "percentageEnergyEfficiency": 51.8
+    },
+    {
+      "location": "Indira Gandhi Memorial Museum",
+      "imagePath": "/assets/initial/Indira Gandhi Memorial Museum.png",
+      "finalImagePath": "/assets/photos/Indira Gandhi Memorial Museum.png",
+      "initialTreeCount": 12,
+      "finalTreeCount": 17,
+      "solarPanelCount": 10,
+      "vehicles": [
+        { "type": "Electric", "count": 0 },
+        { "type": "Hybrid", "count": 0 },
+        { "type": "Conventional", "count": 0 }
+      ],
+      "percentageEnergyEfficiency": 42.1
+    },
+    {
+      "location": "Isa Khan's Tomb",
+      "imagePath": "/assets/initial/isa khanΓÇÖs tomb.png",
+      "finalImagePath": "/assets/photos/isa khanΓÇÖs tomb.png",
+      "initialTreeCount": 27,
+      "finalTreeCount": 76,
+      "solarPanelCount": 38,
+      "vehicles": [
+        { "type": "Electric", "count": 4 },
+        { "type": "Hybrid", "count": 5 },
+        { "type": "Conventional", "count": 19 }
+      ],
+      "percentageEnergyEfficiency": 25.6
+    },
+    {
+      "location": "Jama Masjid",
+      "imagePath": "/assets/initial/Jama Masjid.png",
+      "finalImagePath": "/assets/photos/Jama Masjid.png",
+      "initialTreeCount": 15,
+      "finalTreeCount": 48,
+      "solarPanelCount": 178,
+      "vehicles": [
+        { "type": "Electric", "count": 32 },
+        { "type": "Hybrid", "count": 22 },
+        { "type": "Conventional", "count": 134 }
+      ],
+      "percentageEnergyEfficiency": 44.2
+    },
+    {
+      "location": "Jamali Kamali Mosque and Tomb",
+      "imagePath": "/assets/initial/Jamali Kamali Mosque and Tomb.png",
+      "finalImagePath": "/assets/photos/Jamali Kamali Mosque and Tomb.png",
+      "initialTreeCount": 38,
+      "finalTreeCount": 42,
+      "solarPanelCount": 24,
+      "vehicles": [
+        { "type": "Electric", "count": 6 },
+        { "type": "Hybrid", "count": 8 },
+        { "type": "Conventional", "count": 31 }
+      ],
+      "percentageEnergyEfficiency": 29.8
+    },
+    {
+      "location": "Janpath Market",
+      "imagePath": "/assets/initial/Janpath Market.png",
+      "finalImagePath": "/assets/photos/Janpath Market.png",
+      "initialTreeCount": 11,
+      "finalTreeCount": 19,
+      "solarPanelCount": 24,
+      "vehicles": [
+        { "type": "Electric", "count": 21 },
+        { "type": "Hybrid", "count": 16 },
+        { "type": "Conventional", "count": 72 }
+      ],
+      "percentageEnergyEfficiency": 40.3
+    },
+    {
+      "location": "Jantar Mantar",
+      "imagePath": "/assets/initial/jantarmantar.png",
+      "finalImagePath": "/assets/photos/jantarmantar.png",
+      "initialTreeCount": 22,
+      "finalTreeCount": 24,
+      "solarPanelCount": 16,
+      "vehicles": [
+        { "type": "Electric", "count": 0 },
+        { "type": "Hybrid", "count": 0 },
+        { "type": "Conventional", "count": 0 }
+      ],
+      "percentageEnergyEfficiency": 33.4
+    },
+    {
+      "location": "Kalka Ji Mandir",
+      "imagePath": "/assets/initial/Kalka Ji Mandir.png",
+      "finalImagePath": "/assets/photos/Kalka Ji Mandir.png",
+      "initialTreeCount": 4,
+      "finalTreeCount": 13,
+      "solarPanelCount": 13,
+      "vehicles": [
+        { "type": "Electric", "count": 0},
+        { "type": "Hybrid", "count": 0 },
+        { "type": "Conventional", "count": 0 }
+      ],
+      "percentageEnergyEfficiency": 47.6
+    },
+    {
+      "location": "Khan Market",
+      "imagePath": "/assets/initial/Khan Market.png",
+      "finalImagePath": "/assets/photos/Khan Market.png",
+      "initialTreeCount": 19,
+      "finalTreeCount": 25,
+      "solarPanelCount": 9,
+      "vehicles": [
+        { "type": "Electric", "count": 0 },
+        { "type": "Hybrid", "count": 0 },
+        { "type": "Conventional", "count": 2 }
+      ],
+      "percentageEnergyEfficiency": 35.9
+    },
+    {
+      "location": "Lajpat Nagar",
+      "imagePath": "/assets/initial/Lajpat Nagar.png",
+      "finalImagePath": "/assets/photos/Lajpat Nagar.png",
+      "initialTreeCount": 6,
+      "finalTreeCount": 23,
+      "solarPanelCount": 18,
+      "vehicles": [
+        { "type": "Electric", "count": 0 },
+        { "type": "Hybrid", "count":0 },
+        { "type": "Conventional", "count": 0 }
+      ],
+      "percentageEnergyEfficiency": 44.8
+    },
+    {
+      "location": "Laxminarayan Temple",
+      "imagePath": "/assets/initial/Laxminarayan Temple .png",
+      "finalImagePath": "/assets/photos/Laxminarayan Temple (Birla Mandir).png",
+      "initialTreeCount": 47,
+      "finalTreeCount": 128,
+      "solarPanelCount": 86,
+      "vehicles": [
+        { "type": "Electric", "count": 17 },
+        { "type": "Hybrid", "count": 11 },
+        { "type": "Conventional", "count": 54 }
+      ],
+      "percentageEnergyEfficiency": 38.2
+    },
+    {
+      "location": "Lodhi Art District",
+      "imagePath": "/assets/initial/Lodhi Art District.png",
+      "finalImagePath": "/assets/photos/Lodhi Art District.png",
+      "initialTreeCount": 98,
+      "finalTreeCount": 267,
+      "solarPanelCount": 118,
+      "vehicles": [
+        { "type": "Electric", "count": 29 },
+        { "type": "Hybrid", "count": 22 },
+        { "type": "Conventional", "count": 71 }
+      ],
+      "percentageEnergyEfficiency": 49.3
+    },
+    {
+      "location": "Lotus Temple",
+      "imagePath": "/assets/initial/Lotus Temple.png",
+      "finalImagePath": "/assets/photos/Lotus Temple.png",
+      "initialTreeCount": 11,
+      "finalTreeCount": 22,
+      "solarPanelCount": 14,
+      "vehicles": [
+        { "type": "Electric", "count": 0 },
+        { "type": "Hybrid", "count": 0 },
+        { "type": "Conventional", "count": 0 }
+      ],
+      "percentageEnergyEfficiency": 54.7
+    },
+    {
+      "location": "Majnu Ka Tilla",
+      "imagePath": "/assets/initial/Majnu Ka Tilla.png",
+      "finalImagePath": "/assets/photos/Majnu Ka Tilla.png",
+      "initialTreeCount": 4,
+      "finalTreeCount": 6,
+      "solarPanelCount": 18,
+      "vehicles": [
+        { "type": "Electric", "count": 0},
+        { "type": "Hybrid", "count": 0},
+        { "type": "Conventional", "count": 0}
+      ],
+      "percentageEnergyEfficiency": 30.5
+    },
+    {
+      "location": "National Crafts Museum",
+      "imagePath": "/assets/initial/National Crafts Museum.png",
+      "finalImagePath": "/assets/photos/National Crafts Museum.png",
+      "initialTreeCount": 58,
+      "finalTreeCount": 156,
+      "solarPanelCount": 82,
+      "vehicles": [
+        { "type": "Electric", "count": 8 },
+        { "type": "Hybrid", "count": 12 },
+        { "type": "Conventional", "count": 39 }
+      ],
+      "percentageEnergyEfficiency": 36.4
+    },
+    {
+      "location": "National Science Centre",
+      "imagePath": "/assets/initial/National Science Centre.png",
+      "finalImagePath": "/assets/photos/National Science Centre.png",
+      "initialTreeCount": 76,
+      "finalTreeCount": 204,
+      "solarPanelCount": 192,
+      "vehicles": [
+        { "type": "Electric", "count": 35 },
+        { "type": "Hybrid", "count": 28 },
+        { "type": "Conventional", "count": 82 }
+      ],
+      "percentageEnergyEfficiency": 50.1
+    },
+    {
+      "location": "Nehru Planetarium",
+      "imagePath": "/assets/initial/Nehru Planetarium.png",
+      "finalImagePath": "/assets/photos/Nehru Planetarium.png",
+      "initialTreeCount": 4,
+      "finalTreeCount": 28,
+      "solarPanelCount": 13,
+      "vehicles": [
+        { "type": "Electric", "count": 0 },
+        { "type": "Hybrid", "count": 0 },
+        { "type": "Conventional", "count": 0 }
+      ],
+      "percentageEnergyEfficiency": 41.2
+    },
+    {
+      "location": "Palika Bazaar",
+      "imagePath": "/assets/initial/Palika Bazaar.png",
+      "finalImagePath": "/assets/photos/Palika Bazaar.png",
+      "initialTreeCount": 11,
+      "finalTreeCount": 34,
+      "solarPanelCount": 12,
+      "vehicles": [
+        { "type": "Electric", "count": 23 },
+        { "type": "Hybrid", "count": 14 },
+        { "type": "Conventional", "count": 92 }
+      ],
+      "percentageEnergyEfficiency": 32.7
+    },
+    {
+      "location": "Purana Qila",
+      "imagePath": "/assets/initial/Purana Qila .png",
+      "finalImagePath": "/assets/photos/Purana Qila .png",
+      "initialTreeCount": 11,
+      "finalTreeCount": 14,
+      "solarPanelCount": 23,
+      "vehicles": [
+        { "type": "Electric", "count": 0 },
+        { "type": "Hybrid", "count": 0 },
+        { "type": "Conventional", "count": 0 }
+      ],
+      "percentageEnergyEfficiency": 45.9
+    },
+    {
+      "location": "Raj Ghat",
+      "imagePath": "/assets/initial/Raj Ghat.png",
+      "finalImagePath": "/assets/photos/Raj Ghat.png",
+      "initialTreeCount": 124,
+      "finalTreeCount": 334,
+      "solarPanelCount": 138,
+      "vehicles": [
+        { "type": "Electric", "count": 27 },
+        { "type": "Hybrid", "count": 25 },
+        { "type": "Conventional", "count": 86 }
+      ],
+      "percentageEnergyEfficiency": 48.6
+    },
+    {
+      "location": "Rashtrapati Bhavan",
+      "imagePath": "/assets/initial/Rashtrapati Bhavan.png",
+      "finalImagePath": "/assets/photos/Rashtrapati Bhavan.png",
+      "initialTreeCount": 167,
+      "finalTreeCount": 445,
+      "solarPanelCount": 278,
+      "vehicles": [
+        { "type": "Electric", "count": 58 },
+        { "type": "Hybrid", "count": 42 },
+        { "type": "Conventional", "count": 142 }
+      ],
+      "percentageEnergyEfficiency": 56.3
+    },
+    {
+      "location": "Sanjay Van",
+      "imagePath": "/assets/initial/Sanjay Van.png",
+      "finalImagePath": "/assets/photos/Sanjay Van.png",
+      "initialTreeCount": 2,
+      "finalTreeCount": 18,
+      "solarPanelCount": 6,
+      "vehicles": [
+        { "type": "Electric", "count": 15 },
+        { "type": "Hybrid", "count": 19 },
+        { "type": "Conventional", "count": 52 }
+      ],
+      "percentageEnergyEfficiency": 58.9
+    },
+    {
+      "location": "Siri Fort",
+      "imagePath": "/assets/initial/Siri Fort.png",
+      "finalImagePath": "/assets/photos/Siri Fort.png",
+      "initialTreeCount": 23,
+      "finalTreeCount": 25,
+      "solarPanelCount": 14,
+      "vehicles": [
+        { "type": "Electric", "count": 20 },
+        { "type": "Hybrid", "count": 14 },
+        { "type": "Conventional", "count": 0 }
+      ],
+      "percentageEnergyEfficiency": 46.2
+    },
+    {
+      "location": "Teen Murti Bhavan",
+      "imagePath": "/assets/initial/Teen Murti Bhavan.png",
+      "finalImagePath": "/assets/photos/Teen Murti Bhavan.png",
+      "initialTreeCount": 13,
+      "finalTreeCount": 18,
+      "solarPanelCount": 4,
+      "vehicles": [
+        { "type": "Electric", "count": 16 },
+        { "type": "Hybrid", "count": 11 },
+        { "type": "Conventional", "count": 3 }
+      ],
+      "percentageEnergyEfficiency": 39.8
+    },
+    {
+      "location": "Waste to Wonder Park",
+      "imagePath": "/assets/initial/Waste to Wonder Park.png",
+      "finalImagePath": "/assets/photos/Waste to Wonder Park.png",
+      "initialTreeCount": 65,
+      "finalTreeCount": 176,
+      "solarPanelCount": 156,
+      "vehicles": [
+        { "type": "Electric", "count": 33 },
+        { "type": "Hybrid", "count": 23 },
+        { "type": "Conventional", "count": 74 }
+      ],
+      "percentageEnergyEfficiency": 47.1
+    }
+  ]
+  
